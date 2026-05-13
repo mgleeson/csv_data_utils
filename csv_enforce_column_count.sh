@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #######################################################################################
 # csv_enforce_column_count.sh`
-# @author: Matt Gleeson <m@mattgleeson.net.au>
+# @author: Matt Gleeson (https://github.com/mgleeson/csv_data_utils)
 # @version: 20250829
 # @description: Validate and clean a CSV by enforcing a fixed number of columns.
 # @usage:
