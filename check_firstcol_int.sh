@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #######################################################################################
 # check_firstcol_int.sh
-# @author: Matt Gleeson <m@mattgleeson.net.au>
+# @author: Matt Gleeson (https://github.com/mgleeson/csv_data_utils)
 # @version: 20250829
 # @description: A small, fast Bash script (awk-based) that scans a CSV and reports any
 #   line whose first column isn’t strictly digits (0–9). It can also write a cleaned 
