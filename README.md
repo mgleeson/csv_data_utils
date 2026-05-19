@@ -45,4 +45,4 @@ CSV data utilities - Some simple tools useful for working with very large CSV fi
 ------------------------------------------------------
 
 ## License
-This software is provded as opensource under the [GPL3 license](https://github.com/mgleeson/csv_data_utils/blob/main/LICENSE.txt).
+This software is provded as opensource under the [AGPL3 license](https://github.com/mgleeson/csv_data_utils/blob/main/LICENSE.txt).
